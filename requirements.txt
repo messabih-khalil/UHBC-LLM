@@ -1,0 +1,17 @@
+certifi==2023.11.17
+charset-normalizer==3.3.2
+distlib==0.3.8
+filelock==3.13.1
+fsspec==2024.3.0
+huggingface-hub==0.21.4
+idna==3.6
+packaging==24.0
+pipenv==2023.11.15
+platformdirs==4.1.0
+PyYAML==6.0.1
+requests==2.31.0
+setuptools==69.0.3
+tqdm==4.66.2
+typing_extensions==4.10.0
+urllib3==2.2.1
+virtualenv==20.25.0
